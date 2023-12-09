@@ -1,0 +1,8 @@
+{
+  "name": "advent-of-code-cpp",
+  "dependencies": [
+    "gtest",
+    "curl",
+    "cxxopts"
+  ]
+}

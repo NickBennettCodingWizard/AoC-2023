@@ -1,0 +1,18 @@
+---
+BreakBeforeBraces: Allman
+ColumnLimit: 100
+IncludeBlocks: Preserve
+Language: Cpp
+NamespaceIndentation: All
+DerivePointerAlignment: false
+PointerAlignment: Left
+SpaceBeforeParens: Never
+AllowShortBlocksOnASingleLine: Never
+AllowShortCaseLabelsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: None
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+IndentWidth: 4
+IndentAccessModifiers: false
+FixNamespaceComments: false
+...

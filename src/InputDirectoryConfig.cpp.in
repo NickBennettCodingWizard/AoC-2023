@@ -1,0 +1,15 @@
+//
+// Created by jon on 10/29/23.
+//
+
+#include "InputDirectoryConfig.hpp"
+
+std::string config::GetInputFilePath()
+{
+    return "@INPUT_FILE_PATH@";
+}
+
+std::string config::GetSolutionsPath()
+{
+    return "@SOLUTIONS_PATH@";
+}
